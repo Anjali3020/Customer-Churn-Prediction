@@ -1,0 +1,101 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,InternetService,TechSupport,Contract,MonthlyCharges,Churn
+1,Male,0,No,Yes,29,DSL,Yes,Two Year,656,Yes
+2,Male,0,Yes,Yes,30,No,Yes,Two Year,1114,Yes
+3,Male,1,No,Yes,21,No,No,One Year,1438,No
+4,Male,1,Yes,Yes,49,DSL,No,One Year,1383,No
+5,Female,0,No,Yes,71,Fiber Optic,No,Two Year,1087,No
+6,Male,0,No,Yes,30,DSL,No,One Year,2157,No
+7,Male,1,No,Yes,35,No,Yes,Two Year,1000,No
+8,Male,1,No,No,72,DSL,No,Month-to-Month,1238,No
+9,Female,1,No,Yes,28,No,No,Month-to-Month,2344,Yes
+10,Female,0,No,Yes,32,No,No,Two Year,2054,Yes
+11,Female,0,Yes,No,12,DSL,Yes,Month-to-Month,955,Yes
+12,Male,1,No,No,68,Fiber Optic,Yes,Two Year,769,No
+13,Female,0,No,No,21,Fiber Optic,Yes,Two Year,1378,No
+14,Male,1,Yes,Yes,48,DSL,Yes,Two Year,1627,Yes
+15,Male,0,No,No,31,DSL,Yes,Two Year,622,No
+16,Female,0,Yes,Yes,61,No,Yes,One Year,2461,Yes
+17,Male,0,No,No,48,Fiber Optic,No,Month-to-Month,1315,No
+18,Male,1,Yes,Yes,29,DSL,Yes,Two Year,541,No
+19,Male,0,No,Yes,66,DSL,No,Two Year,2288,No
+20,Male,1,Yes,No,53,DSL,Yes,Month-to-Month,2065,No
+21,Female,1,No,Yes,13,DSL,No,Two Year,1689,No
+22,Male,0,Yes,No,18,Fiber Optic,Yes,One Year,2194,No
+23,Male,1,Yes,Yes,70,DSL,Yes,Month-to-Month,981,Yes
+24,Female,1,Yes,No,8,DSL,No,Month-to-Month,1899,Yes
+25,Female,1,No,No,72,No,No,Month-to-Month,1077,No
+26,Male,0,Yes,No,8,DSL,No,Two Year,2475,No
+27,Male,0,Yes,Yes,9,No,Yes,One Year,791,No
+28,Male,0,No,No,34,DSL,No,Month-to-Month,1387,Yes
+29,Male,1,No,No,10,DSL,No,Two Year,709,No
+30,Male,1,Yes,No,9,DSL,No,One Year,946,Yes
+31,Female,0,No,Yes,18,Fiber Optic,Yes,Month-to-Month,936,No
+32,Female,0,No,Yes,34,No,No,One Year,508,No
+33,Female,1,Yes,Yes,43,DSL,No,Month-to-Month,2109,Yes
+34,Male,0,Yes,Yes,70,DSL,No,Two Year,906,Yes
+35,Male,0,No,No,6,Fiber Optic,Yes,Two Year,1322,No
+36,Female,1,Yes,Yes,21,DSL,No,Month-to-Month,1034,No
+37,Female,0,No,Yes,14,Fiber Optic,Yes,One Year,1211,No
+38,Female,1,No,Yes,29,DSL,Yes,One Year,1644,No
+39,Male,1,No,No,69,Fiber Optic,Yes,Month-to-Month,1369,No
+40,Female,0,Yes,No,45,No,No,One Year,2394,No
+41,Female,0,No,Yes,56,DSL,Yes,One Year,2066,No
+42,Female,1,Yes,No,65,Fiber Optic,No,One Year,1948,No
+43,Male,0,No,No,23,No,No,One Year,301,No
+44,Female,0,No,No,60,Fiber Optic,No,Two Year,1175,Yes
+45,Male,0,No,No,12,DSL,No,Month-to-Month,1115,No
+46,Male,0,Yes,No,10,Fiber Optic,No,Two Year,1096,Yes
+47,Female,1,Yes,Yes,1,DSL,No,Month-to-Month,1020,Yes
+48,Male,0,Yes,No,18,Fiber Optic,No,One Year,2367,Yes
+49,Female,0,No,No,34,DSL,No,Two Year,2284,No
+50,Female,1,Yes,No,31,Fiber Optic,No,One Year,630,No
+51,Male,0,No,Yes,28,DSL,No,One Year,1655,Yes
+52,Female,0,Yes,No,50,No,Yes,Two Year,1858,Yes
+53,Male,1,No,No,54,No,Yes,One Year,1198,No
+54,Female,1,Yes,No,44,No,No,Two Year,976,Yes
+55,Male,0,No,Yes,11,No,No,Month-to-Month,2191,Yes
+56,Male,0,No,No,42,DSL,No,One Year,1682,Yes
+57,Female,1,No,Yes,61,DSL,Yes,One Year,1218,No
+58,Male,0,Yes,Yes,3,No,Yes,Month-to-Month,817,Yes
+59,Male,0,No,No,48,DSL,Yes,Month-to-Month,1574,No
+60,Male,1,No,No,26,DSL,Yes,Month-to-Month,1535,No
+61,Male,1,No,No,9,No,No,Month-to-Month,2020,Yes
+62,Female,0,No,No,59,No,Yes,One Year,1021,No
+63,Female,1,No,No,42,DSL,Yes,One Year,2146,No
+64,Female,1,No,Yes,64,Fiber Optic,Yes,One Year,1168,No
+65,Female,1,No,No,72,DSL,Yes,Month-to-Month,1288,Yes
+66,Female,0,No,No,58,DSL,Yes,One Year,1207,Yes
+67,Male,1,No,No,71,No,No,One Year,1654,No
+68,Female,1,No,No,30,DSL,Yes,One Year,789,No
+69,Male,0,No,No,68,No,No,Month-to-Month,1095,No
+70,Male,1,Yes,No,2,No,Yes,One Year,486,No
+71,Female,0,No,Yes,2,No,No,One Year,2260,Yes
+72,Female,0,Yes,No,62,DSL,Yes,One Year,2314,No
+73,Male,0,Yes,No,11,DSL,Yes,Two Year,2004,No
+74,Female,1,No,No,55,Fiber Optic,Yes,Two Year,706,No
+75,Male,1,Yes,Yes,31,DSL,Yes,Month-to-Month,310,Yes
+76,Female,1,No,Yes,30,Fiber Optic,No,Two Year,2159,No
+77,Male,1,Yes,No,15,No,Yes,Two Year,910,No
+78,Male,0,Yes,Yes,40,No,No,One Year,809,Yes
+79,Female,1,No,No,57,DSL,Yes,One Year,1620,No
+80,Male,0,Yes,Yes,35,No,Yes,Month-to-Month,2227,Yes
+81,Female,0,No,No,12,Fiber Optic,No,One Year,1665,No
+82,Male,0,No,No,64,Fiber Optic,No,Two Year,450,Yes
+83,Male,1,No,No,15,Fiber Optic,Yes,Two Year,2192,Yes
+84,Male,0,No,No,57,DSL,Yes,One Year,836,No
+85,Female,1,Yes,Yes,31,No,Yes,One Year,356,Yes
+86,Male,0,Yes,No,16,No,Yes,One Year,1495,No
+87,Female,1,No,Yes,59,No,Yes,One Year,1080,No
+88,Male,1,No,No,65,Fiber Optic,Yes,One Year,1522,Yes
+89,Male,1,No,No,43,No,No,One Year,1618,No
+90,Male,1,Yes,No,6,Fiber Optic,No,Two Year,1861,Yes
+91,Male,1,Yes,Yes,65,No,No,Month-to-Month,2103,No
+92,Female,0,Yes,No,20,DSL,No,One Year,1686,Yes
+93,Male,1,No,No,63,No,Yes,Two Year,580,No
+94,Female,0,Yes,No,13,No,Yes,One Year,981,No
+95,Male,0,No,Yes,38,Fiber Optic,No,One Year,896,No
+96,Female,0,Yes,Yes,11,No,No,Two Year,1286,Yes
+97,Male,0,No,No,59,Fiber Optic,Yes,One Year,1478,No
+98,Male,1,No,No,55,No,No,One Year,1537,No
+99,Female,1,Yes,Yes,49,No,No,Two Year,1511,No
+100,Male,1,No,Yes,7,No,No,One Year,1242,No
